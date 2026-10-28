@@ -1,0 +1,36 @@
+{
+  "run": {
+    "model": "llama3.1:8b",
+    "concurrency": 16,
+    "params": {
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "max_tokens": 350
+    },
+    "elapsed_sec": 330.5,
+    "input_tokens": 403565,
+    "output_tokens": 96309,
+    "n": 300,
+    "avg_latency": 16.1,
+    "avg_attempts": 1.39
+  },
+  "metrics": {
+    "valid": 244,
+    "valid_rate": 0.813,
+    "throughput": 0.91,
+    "time_for_300_sec": 330.5,
+    "cost_vllm_per_1000": 19.9,
+    "errors_by_reason": { "предложений": 12, "длина description": 6 }
+  },
+  "api_comparison": {
+    "model": "название бесплатной модели",
+    "n": 25,
+    "valid_rate": 0.0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "elapsed_sec": 0.0,
+    "cost_per_1000": 0.0
+  }
+}

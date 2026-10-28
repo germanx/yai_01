@@ -1,0 +1,4 @@
+temperature,top_p,top_k,repetition_penalty,max_tokens,error,time_per_item
+0.0,0.9,20,1.0,250,0,21.28
+0.0,0.9,20,1.0,250,0,41.24
+0.0,0.9,20,1.0,250,0,45.14
