@@ -1,0 +1,348 @@
+{'num': 1, 'card': 'P-1144', 'error': 0, 'tokens': 148, 'time_per_item': 7.46}
+{'num': 2, 'card': 'P-1057', 'error': 0, 'tokens': 180, 'time_per_item': 9.01}
+{'num': 3, 'card': 'P-1261', 'error': 0, 'tokens': 210, 'time_per_item': 10.33}
+{'num': 4, 'card': 'P-1237', 'error': 0, 'tokens': 159, 'time_per_item': 10.31}
+{'num': 5, 'card': 'P-1281', 'error': 0, 'tokens': 148, 'time_per_item': 8.58}
+{'num': 6, 'card': 'P-1155', 'error': 0, 'tokens': 165, 'time_per_item': 9.3}
+{'num': 7, 'card': 'P-1076', 'error': 0, 'tokens': 182, 'time_per_item': 12.25}
+{'num': 8, 'card': 'P-1258', 'error': 0, 'tokens': 205, 'time_per_item': 16.35}
+{'num': 9, 'card': 'P-1075', 'error': 0, 'tokens': 198, 'time_per_item': 15.62}
+{'num': 10, 'card': 'P-1148', 'error': 0, 'tokens': 153, 'time_per_item': 16.84}
+{'num': 11, 'card': 'P-1149', 'error': 0, 'tokens': 188, 'time_per_item': 25.41}
+{'num': 12, 'card': 'P-1106', 'error': 0, 'tokens': 218, 'time_per_item': 28.32}
+{'num': 13, 'card': 'P-1054', 'error': 0, 'tokens': 150, 'time_per_item': 21.32}
+{'num': 14, 'card': 'P-1104', 'error': 0, 'tokens': 186, 'time_per_item': 24.26}
+{'num': 15, 'card': 'P-1183', 'error': 0, 'tokens': 218, 'time_per_item': 23.36}
+{'num': 16, 'card': 'P-1267', 'error': 0, 'tokens': 192, 'time_per_item': 21.17}
+{'num': 17, 'card': 'P-1111', 'error': 0, 'tokens': 198, 'time_per_item': 23.36}
+{'num': 18, 'card': 'P-1071', 'error': 0, 'tokens': 231, 'time_per_item': 27.07}
+{'num': 19, 'card': 'P-1068', 'error': 0, 'tokens': 205, 'time_per_item': 23.85}
+{'num': 20, 'card': 'P-1179', 'error': 0, 'tokens': 204, 'time_per_item': 24.56}
+{'num': 21, 'card': 'P-1041', 'error': 0, 'tokens': 162, 'time_per_item': 18.47}
+{'num': 22, 'card': 'P-1182', 'error': 0, 'tokens': 170, 'time_per_item': 20.65}
+{'num': 23, 'card': 'P-1088', 'error': 0, 'tokens': 205, 'time_per_item': 26.74}
+>>> error:  {'product_id': 'P-1019', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-1019",
+  "description": "Пылесос Vortem Cyclone 200 - лёгкий и тихий пылесос с мешком, который собирет шерсть кота без проблем и тянет пыль отлично.",
+  "pros": ["Лёгкий", "Работает тихо", "Собирает шерсть кота без проблем", "Тянет пыль отлично"],
+  "cons": ["Контейнер маленький", "Забивается щётка волосами", "На длинном ворсе мощности не хватает"],
+  "tags": ["Пылесос", "Бытовая техника", "Вортер", "Мешок", "150 Вт", "0.5 л", "60 мин", "3 кг"]
+}
+{'num': 24, 'card': 'P-1019', 'error': 0, 'tokens': 240, 'time_per_item': 47.62}
+{'num': 25, 'card': 'P-1025', 'error': 0, 'tokens': 180, 'time_per_item': 26.67}
+{'num': 26, 'card': 'P-1012', 'error': 0, 'tokens': 196, 'time_per_item': 27.72}
+{'num': 27, 'card': 'P-1253', 'error': 0, 'tokens': 202, 'time_per_item': 24.78}
+{'num': 28, 'card': 'P-1184', 'error': 0, 'tokens': 222, 'time_per_item': 26.47}
+{'num': 29, 'card': 'P-1256', 'error': 0, 'tokens': 176, 'time_per_item': 20.5}
+{'num': 30, 'card': 'P-1031', 'error': 0, 'tokens': 209, 'time_per_item': 27.04}
+{'num': 31, 'card': 'P-1240', 'error': 0, 'tokens': 203, 'time_per_item': 26.11}
+{'num': 32, 'card': 'P-1181', 'error': 0, 'tokens': 190, 'time_per_item': 21.81}
+>>> error:  {'product_id': 'P-1060', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-1060",
+  "description": "Куртка Polaris демисезонная. Утеплитель - пух. Сезон - зима. Водоотталкивающая пропитка есть. Капюшон съёмный. Температурный режим до -10.",
+  "pros": ["Удобный капюшон", "Сидит по фигуре", "Лёгкая для своей теплоты", "Тёплая, в мороз не продувает"],
+  "cons": ["Утеплитель сбивается после стирки"],
+  "tags": ["куртка", "демонсезонная", "утеплитель пух", "водоотталкивающая пропитка", "съёмный капюшон"]
+}
+{'num': 33, 'card': 'P-1060', 'error': 0, 'tokens': 223, 'time_per_item': 46.29}
+{'num': 34, 'card': 'P-1026', 'error': 0, 'tokens': 186, 'time_per_item': 23.1}
+{'num': 35, 'card': 'P-1052', 'error': 0, 'tokens': 207, 'time_per_item': 26.99}
+>>> error:  {'product_id': 'P-1229', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-1229",
+  "description": "Кроссовки Aeron беговые. Дышат хорошо, нога не потеет. Сидят как влитые, ногу не натирают. Выглядят стильно, подходят под всё. Пользуюсь пару недель. Быстро пачкаются, сетка светлая.",
+  "pros": ["Дышат хорошо", "Сидят как влитые", "Выглядят стильно"],
+  "cons": ["Быстро пачкаются", "Подошва скользит на плитке"],
+  "tags": ["кроссовки", "беговые", "аэрон", "обувь"]
+}
+{'num': 36, 'card': 'P-1229', 'error': 0, 'tokens': 167, 'time_per_item': 36.83}
+{'num': 37, 'card': 'P-1213', 'error': 0, 'tokens': 153, 'time_per_item': 19.46}
+{'num': 38, 'card': 'P-1215', 'error': 0, 'tokens': 190, 'time_per_item': 21.17}
+{'num': 39, 'card': 'P-1086', 'error': 0, 'tokens': 172, 'time_per_item': 20.97}
+{'num': 40, 'card': 'P-1089', 'error': 0, 'tokens': 233, 'time_per_item': 29.15}
+{'num': 41, 'card': 'P-1166', 'error': 0, 'tokens': 145, 'time_per_item': 18.11}
+{'num': 42, 'card': 'P-1205', 'error': 0, 'tokens': 170, 'time_per_item': 23.07}
+>>> error:  {'product_id': 'P-1140', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-1140",
+  "description": "Куртка Norvik демисезонная. Утеплитель: холлофайбер. Сезон: зима. Водоотталкивающая пропитка: есть. Капюшон: нет. Температурный режим: до 0.",
+  "pros": ["Капюшон удобный, голову закрывает полностью", "Тёплая, в мороз не продувает", "Цвет как на фото, не линяет после стирки", "Пользуюсь пару недель. Карманы вместительные, руки греют", "Заказывал на подарок. Брал по акции, за эту цену нормально"],
+  "cons": ["Молния подклинивает на морозе", "Размер маломерит, лучше брать на размер больше", "В сильный ветер поддувает снизу"],
+  "tags": ["куртка", "демисезонная", "Norvik", "холлофайбер", "зима", "водоотталкивающая пропитка", "капюшон"]
+}
+{'num': 43, 'card': 'P-1140', 'error': 0, 'tokens': 292, 'time_per_item': 55.97}
+{'num': 44, 'card': 'P-1061', 'error': 0, 'tokens': 195, 'time_per_item': 25.55}
+{'num': 45, 'card': 'P-1072', 'error': 0, 'tokens': 261, 'time_per_item': 31.3}
+{'num': 46, 'card': 'P-1259', 'error': 0, 'tokens': 205, 'time_per_item': 23.44}
+{'num': 47, 'card': 'P-1189', 'error': 0, 'tokens': 167, 'time_per_item': 18.91}
+{'num': 48, 'card': 'P-1146', 'error': 0, 'tokens': 248, 'time_per_item': 28.91}
+{'num': 49, 'card': 'P-1092', 'error': 0, 'tokens': 204, 'time_per_item': 24.83}
+{'num': 50, 'card': 'P-1002', 'error': 0, 'tokens': 190, 'time_per_item': 23.57}
+{'num': 51, 'card': 'P-1196', 'error': 0, 'tokens': 152, 'time_per_item': 19.6}
+{'num': 52, 'card': 'P-1174', 'error': 0, 'tokens': 186, 'time_per_item': 20.25}
+{'num': 53, 'card': 'P-1127', 'error': 0, 'tokens': 205, 'time_per_item': 22.05}
+{'num': 54, 'card': 'P-1157', 'error': 0, 'tokens': 166, 'time_per_item': 17.78}
+{'num': 55, 'card': 'P-1160', 'error': 0, 'tokens': 206, 'time_per_item': 26.94}
+{'num': 56, 'card': 'P-1018', 'error': 0, 'tokens': 239, 'time_per_item': 27.7}
+{'num': 57, 'card': 'P-1227', 'error': 0, 'tokens': 187, 'time_per_item': 21.82}
+{'num': 58, 'card': 'P-1030', 'error': 0, 'tokens': 166, 'time_per_item': 21.73}
+{'num': 59, 'card': 'P-1220', 'error': 0, 'tokens': 211, 'time_per_item': 24.51}
+{'num': 60, 'card': 'P-1050', 'error': 0, 'tokens': 170, 'time_per_item': 19.51}
+{'num': 61, 'card': 'P-1272', 'error': 0, 'tokens': 157, 'time_per_item': 18.61}
+{'num': 62, 'card': 'P-1192', 'error': 0, 'tokens': 213, 'time_per_item': 25.71}
+{'num': 63, 'card': 'P-1279', 'error': 0, 'tokens': 154, 'time_per_item': 18.34}
+{'num': 64, 'card': 'P-1143', 'error': 0, 'tokens': 224, 'time_per_item': 27.37}
+{'num': 65, 'card': 'P-1114', 'error': 0, 'tokens': 211, 'time_per_item': 28.18}
+{'num': 66, 'card': 'P-1113', 'error': 0, 'tokens': 179, 'time_per_item': 20.5}
+{'num': 67, 'card': 'P-1260', 'error': 0, 'tokens': 164, 'time_per_item': 22.43}
+{'num': 68, 'card': 'P-1176', 'error': 0, 'tokens': 147, 'time_per_item': 19.66}
+{'num': 69, 'card': 'P-1065', 'error': 0, 'tokens': 211, 'time_per_item': 26.58}
+{'num': 70, 'card': 'P-1185', 'error': 0, 'tokens': 183, 'time_per_item': 25.07}
+{'num': 71, 'card': 'P-1198', 'error': 0, 'tokens': 155, 'time_per_item': 19.47}
+{'num': 72, 'card': 'P-1169', 'error': 0, 'tokens': 196, 'time_per_item': 25.04}
+{'num': 73, 'card': 'P-1214', 'error': 0, 'tokens': 188, 'time_per_item': 25.78}
+{'num': 74, 'card': 'P-1001', 'error': 0, 'tokens': 159, 'time_per_item': 18.58}
+{'num': 75, 'card': 'P-1118', 'error': 0, 'tokens': 150, 'time_per_item': 19.59}
+{'num': 76, 'card': 'P-1195', 'error': 0, 'tokens': 213, 'time_per_item': 24.6}
+{'num': 77, 'card': 'P-1121', 'error': 0, 'tokens': 141, 'time_per_item': 20.42}
+{'num': 78, 'card': 'P-1100', 'error': 0, 'tokens': 171, 'time_per_item': 18.79}
+{'num': 79, 'card': 'P-1152', 'error': 0, 'tokens': 201, 'time_per_item': 26.95}
+{'num': 80, 'card': 'P-1270', 'error': 0, 'tokens': 168, 'time_per_item': 20.22}
+{'num': 81, 'card': 'P-1251', 'error': 0, 'tokens': 197, 'time_per_item': 27.06}
+{'num': 82, 'card': 'P-1300', 'error': 0, 'tokens': 239, 'time_per_item': 28.26}
+{'num': 83, 'card': 'P-1194', 'error': 0, 'tokens': 195, 'time_per_item': 22.44}
+{'num': 84, 'card': 'P-1242', 'error': 0, 'tokens': 176, 'time_per_item': 23.19}
+{'num': 85, 'card': 'P-1043', 'error': 0, 'tokens': 241, 'time_per_item': 25.73}
+{'num': 86, 'card': 'P-1244', 'error': 0, 'tokens': 177, 'time_per_item': 22.65}
+{'num': 87, 'card': 'P-1200', 'error': 0, 'tokens': 226, 'time_per_item': 25.4}
+{'num': 88, 'card': 'P-1015', 'error': 0, 'tokens': 227, 'time_per_item': 25.94}
+{'num': 89, 'card': 'P-1249', 'error': 0, 'tokens': 260, 'time_per_item': 33.34}
+{'num': 90, 'card': 'P-1293', 'error': 0, 'tokens': 180, 'time_per_item': 20.29}
+{'num': 91, 'card': 'P-1150', 'error': 0, 'tokens': 200, 'time_per_item': 25.37}
+{'num': 92, 'card': 'P-1283', 'error': 0, 'tokens': 193, 'time_per_item': 23.35}
+{'num': 93, 'card': 'P-1257', 'error': 0, 'tokens': 157, 'time_per_item': 19.69}
+{'num': 94, 'card': 'P-1078', 'error': 0, 'tokens': 190, 'time_per_item': 21.24}
+{'num': 95, 'card': 'P-1197', 'error': 0, 'tokens': 173, 'time_per_item': 19.93}
+{'num': 96, 'card': 'P-1208', 'error': 0, 'tokens': 248, 'time_per_item': 31.44}
+{'num': 97, 'card': 'P-1277', 'error': 0, 'tokens': 175, 'time_per_item': 24.06}
+{'num': 98, 'card': 'P-1039', 'error': 0, 'tokens': 175, 'time_per_item': 24.44}
+{'num': 99, 'card': 'P-1243', 'error': 0, 'tokens': 203, 'time_per_item': 24.68}
+{'num': 100, 'card': 'P-1193', 'error': 0, 'tokens': 173, 'time_per_item': 20.38}
+{'num': 101, 'card': 'P-1191', 'error': 0, 'tokens': 167, 'time_per_item': 21.28}
+{'num': 102, 'card': 'P-1298', 'error': 0, 'tokens': 190, 'time_per_item': 23.27}
+{'num': 103, 'card': 'P-1059', 'error': 0, 'tokens': 196, 'time_per_item': 24.19}
+{'num': 104, 'card': 'P-1053', 'error': 0, 'tokens': 143, 'time_per_item': 17.39}
+{'num': 105, 'card': 'P-1223', 'error': 0, 'tokens': 200, 'time_per_item': 22.14}
+{'num': 106, 'card': 'P-1129', 'error': 0, 'tokens': 147, 'time_per_item': 17.76}
+{'num': 107, 'card': 'P-1186', 'error': 0, 'tokens': 198, 'time_per_item': 21.0}
+{'num': 108, 'card': 'P-1175', 'error': 0, 'tokens': 188, 'time_per_item': 23.38}
+{'num': 109, 'card': 'P-1239', 'error': 0, 'tokens': 221, 'time_per_item': 28.55}
+>>> error:  {'product_id': 'P-1029', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-1029",
+  "description": "Кроссовки Stride Flex - отличный выбор для спортивного отдыха. Они имеют тонкую стельку, что делает их идеальными для занятий в зале. Материал верха из ткани обеспечивает комфорт и свободу движений. Подошва из резины обеспечивает хороший сцепление с поверхностью. Размерный ряд от 41 до 46 размеров. Фиксация с помощью липучки. Качество прошивки хорошее, ничего не отклеивается.",
+  "pros": ["тонкая стелька", "комфорт", "свобода движений", "хороший сцепление", "качество прошивки"],
+  "cons": ["подошва скользит на плитке", "задник жёсткий, поначалу натирает пятку"],
+  "tags": ["кроссовки", "спорт", "зал", "текстиль", "резина", "липучка"]
+}
+{'num': 110, 'card': 'P-1029', 'error': 0, 'tokens': 186, 'time_per_item': 48.1}
+{'num': 111, 'card': 'P-1008', 'error': 0, 'tokens': 169, 'time_per_item': 20.35}
+{'num': 112, 'card': 'P-1295', 'error': 0, 'tokens': 232, 'time_per_item': 31.47}
+{'num': 113, 'card': 'P-1162', 'error': 0, 'tokens': 196, 'time_per_item': 22.49}
+{'num': 114, 'card': 'P-1131', 'error': 0, 'tokens': 167, 'time_per_item': 19.73}
+{'num': 115, 'card': 'P-1236', 'error': 0, 'tokens': 198, 'time_per_item': 28.41}
+{'num': 116, 'card': 'P-1233', 'error': 0, 'tokens': 173, 'time_per_item': 21.05}
+{'num': 117, 'card': 'P-1096', 'error': 0, 'tokens': 206, 'time_per_item': 27.47}
+{'num': 118, 'card': 'P-1134', 'error': 0, 'tokens': 170, 'time_per_item': 29.68}
+{'num': 119, 'card': 'P-1037', 'error': 0, 'tokens': 189, 'time_per_item': 25.95}
+{'num': 120, 'card': 'P-1230', 'error': 0, 'tokens': 153, 'time_per_item': 20.26}
+{'num': 121, 'card': 'P-1122', 'error': 0, 'tokens': 225, 'time_per_item': 27.43}
+{'num': 122, 'card': 'P-1289', 'error': 0, 'tokens': 177, 'time_per_item': 21.74}
+{'num': 123, 'card': 'P-1090', 'error': 0, 'tokens': 189, 'time_per_item': 27.29}
+{'num': 124, 'card': 'P-1299', 'error': 0, 'tokens': 163, 'time_per_item': 20.15}
+{'num': 125, 'card': 'P-1128', 'error': 0, 'tokens': 174, 'time_per_item': 24.4}
+{'num': 126, 'card': 'P-1082', 'error': 0, 'tokens': 232, 'time_per_item': 29.52}
+{'num': 127, 'card': 'P-1033', 'error': 0, 'tokens': 167, 'time_per_item': 27.09}
+{'num': 128, 'card': 'P-1235', 'error': 0, 'tokens': 162, 'time_per_item': 22.85}
+{'num': 129, 'card': 'P-1287', 'error': 0, 'tokens': 229, 'time_per_item': 31.08}
+{'num': 130, 'card': 'P-1095', 'error': 0, 'tokens': 204, 'time_per_item': 24.24}
+{'num': 131, 'card': 'P-1105', 'error': 0, 'tokens': 170, 'time_per_item': 25.55}
+{'num': 132, 'card': 'P-1047', 'error': 0, 'tokens': 187, 'time_per_item': 21.71}
+{'num': 133, 'card': 'P-1063', 'error': 0, 'tokens': 188, 'time_per_item': 20.16}
+{'num': 134, 'card': 'P-1125', 'error': 0, 'tokens': 162, 'time_per_item': 22.08}
+{'num': 135, 'card': 'P-1141', 'error': 0, 'tokens': 152, 'time_per_item': 18.72}
+{'num': 136, 'card': 'P-1079', 'error': 0, 'tokens': 186, 'time_per_item': 25.44}
+{'num': 137, 'card': 'P-1221', 'error': 0, 'tokens': 162, 'time_per_item': 19.47}
+{'num': 138, 'card': 'P-1231', 'error': 0, 'tokens': 185, 'time_per_item': 21.2}
+{'num': 139, 'card': 'P-1055', 'error': 0, 'tokens': 173, 'time_per_item': 25.8}
+{'num': 140, 'card': 'P-1187', 'error': 0, 'tokens': 157, 'time_per_item': 22.4}
+{'num': 141, 'card': 'P-1017', 'error': 0, 'tokens': 181, 'time_per_item': 21.6}
+{'num': 142, 'card': 'P-1276', 'error': 0, 'tokens': 226, 'time_per_item': 25.95}
+{'num': 143, 'card': 'P-1171', 'error': 0, 'tokens': 187, 'time_per_item': 21.0}
+{'num': 144, 'card': 'P-1269', 'error': 0, 'tokens': 188, 'time_per_item': 22.13}
+{'num': 145, 'card': 'P-1094', 'error': 0, 'tokens': 185, 'time_per_item': 21.16}
+{'num': 146, 'card': 'P-1170', 'error': 0, 'tokens': 213, 'time_per_item': 26.46}
+{'num': 147, 'card': 'P-1217', 'error': 0, 'tokens': 214, 'time_per_item': 27.69}
+{'num': 148, 'card': 'P-1022', 'error': 0, 'tokens': 163, 'time_per_item': 22.41}
+{'num': 149, 'card': 'P-1097', 'error': 0, 'tokens': 204, 'time_per_item': 24.9}
+{'num': 150, 'card': 'P-1101', 'error': 0, 'tokens': 161, 'time_per_item': 21.4}
+{'num': 151, 'card': 'P-1241', 'error': 0, 'tokens': 156, 'time_per_item': 20.03}
+{'num': 152, 'card': 'P-1291', 'error': 0, 'tokens': 167, 'time_per_item': 20.75}
+{'num': 153, 'card': 'P-1224', 'error': 0, 'tokens': 197, 'time_per_item': 27.7}
+{'num': 154, 'card': 'P-1178', 'error': 0, 'tokens': 224, 'time_per_item': 30.32}
+{'num': 155, 'card': 'P-1264', 'error': 0, 'tokens': 218, 'time_per_item': 29.46}
+{'num': 156, 'card': 'P-1172', 'error': 0, 'tokens': 159, 'time_per_item': 23.18}
+{'num': 157, 'card': 'P-1278', 'error': 0, 'tokens': 178, 'time_per_item': 21.15}
+{'num': 158, 'card': 'P-1040', 'error': 0, 'tokens': 201, 'time_per_item': 24.96}
+{'num': 159, 'card': 'P-1080', 'error': 0, 'tokens': 195, 'time_per_item': 28.05}
+{'num': 160, 'card': 'P-1290', 'error': 0, 'tokens': 209, 'time_per_item': 27.34}
+{'num': 161, 'card': 'P-1112', 'error': 0, 'tokens': 166, 'time_per_item': 26.27}
+{'num': 162, 'card': 'P-1085', 'error': 0, 'tokens': 169, 'time_per_item': 22.41}
+{'num': 163, 'card': 'P-1165', 'error': 0, 'tokens': 170, 'time_per_item': 25.79}
+{'num': 164, 'card': 'P-1058', 'error': 0, 'tokens': 206, 'time_per_item': 28.29}
+{'num': 165, 'card': 'P-1280', 'error': 0, 'tokens': 217, 'time_per_item': 32.68}
+{'num': 166, 'card': 'P-1051', 'error': 0, 'tokens': 166, 'time_per_item': 21.91}
+{'num': 167, 'card': 'P-1147', 'error': 0, 'tokens': 199, 'time_per_item': 26.51}
+{'num': 168, 'card': 'P-1115', 'error': 0, 'tokens': 204, 'time_per_item': 28.24}
+{'num': 169, 'card': 'P-1123', 'error': 0, 'tokens': 164, 'time_per_item': 24.85}
+{'num': 170, 'card': 'P-1045', 'error': 0, 'tokens': 195, 'time_per_item': 28.96}
+{'num': 171, 'card': 'P-1234', 'error': 0, 'tokens': 137, 'time_per_item': 20.3}
+{'num': 172, 'card': 'P-1024', 'error': 0, 'tokens': 219, 'time_per_item': 27.89}
+{'num': 173, 'card': 'P-1282', 'error': 0, 'tokens': 157, 'time_per_item': 18.71}
+{'num': 174, 'card': 'P-1133', 'error': 0, 'tokens': 184, 'time_per_item': 27.82}
+{'num': 175, 'card': 'P-1109', 'error': 0, 'tokens': 163, 'time_per_item': 19.73}
+{'num': 176, 'card': 'P-1119', 'error': 0, 'tokens': 203, 'time_per_item': 25.67}
+{'num': 177, 'card': 'P-1038', 'error': 0, 'tokens': 161, 'time_per_item': 20.58}
+{'num': 178, 'card': 'P-1069', 'error': 0, 'tokens': 174, 'time_per_item': 22.92}
+{'num': 179, 'card': 'P-1177', 'error': 0, 'tokens': 207, 'time_per_item': 30.96}
+{'num': 180, 'card': 'P-1132', 'error': 0, 'tokens': 208, 'time_per_item': 31.35}
+{'num': 181, 'card': 'P-1084', 'error': 0, 'tokens': 171, 'time_per_item': 27.74}
+{'num': 182, 'card': 'P-1117', 'error': 0, 'tokens': 237, 'time_per_item': 34.02}
+{'num': 183, 'card': 'P-1164', 'error': 0, 'tokens': 164, 'time_per_item': 23.1}
+{'num': 184, 'card': 'P-1190', 'error': 0, 'tokens': 181, 'time_per_item': 24.38}
+{'num': 185, 'card': 'P-1032', 'error': 0, 'tokens': 185, 'time_per_item': 24.66}
+{'num': 186, 'card': 'P-1070', 'error': 0, 'tokens': 149, 'time_per_item': 18.71}
+{'num': 187, 'card': 'P-1004', 'error': 0, 'tokens': 183, 'time_per_item': 23.01}
+{'num': 188, 'card': 'P-1077', 'error': 0, 'tokens': 198, 'time_per_item': 28.15}
+{'num': 189, 'card': 'P-1296', 'error': 0, 'tokens': 171, 'time_per_item': 24.02}
+{'num': 190, 'card': 'P-1081', 'error': 0, 'tokens': 180, 'time_per_item': 21.39}
+{'num': 191, 'card': 'P-1023', 'error': 0, 'tokens': 188, 'time_per_item': 26.05}
+{'num': 192, 'card': 'P-1049', 'error': 0, 'tokens': 191, 'time_per_item': 25.81}
+{'num': 193, 'card': 'P-1056', 'error': 0, 'tokens': 184, 'time_per_item': 27.01}
+{'num': 194, 'card': 'P-1238', 'error': 0, 'tokens': 167, 'time_per_item': 18.68}
+{'num': 195, 'card': 'P-1199', 'error': 0, 'tokens': 147, 'time_per_item': 21.36}
+{'num': 196, 'card': 'P-1021', 'error': 0, 'tokens': 132, 'time_per_item': 18.28}
+{'num': 197, 'card': 'P-1010', 'error': 0, 'tokens': 196, 'time_per_item': 22.87}
+{'num': 198, 'card': 'P-1011', 'error': 0, 'tokens': 180, 'time_per_item': 24.44}
+{'num': 199, 'card': 'P-1154', 'error': 0, 'tokens': 171, 'time_per_item': 22.15}
+{'num': 200, 'card': 'P-1108', 'error': 0, 'tokens': 229, 'time_per_item': 20.73}
+{'num': 201, 'card': 'P-1159', 'error': 0, 'tokens': 199, 'time_per_item': 14.32}
+{'num': 202, 'card': 'P-1110', 'error': 0, 'tokens': 135, 'time_per_item': 9.1}
+{'num': 203, 'card': 'P-1135', 'error': 0, 'tokens': 195, 'time_per_item': 13.7}
+{'num': 204, 'card': 'P-1103', 'error': 0, 'tokens': 164, 'time_per_item': 10.78}
+{'num': 205, 'card': 'P-1212', 'error': 0, 'tokens': 206, 'time_per_item': 20.93}
+{'num': 206, 'card': 'P-1163', 'error': 0, 'tokens': 213, 'time_per_item': 32.68}
+{'num': 207, 'card': 'P-1254', 'error': 0, 'tokens': 183, 'time_per_item': 37.1}
+{'num': 208, 'card': 'P-1219', 'error': 0, 'tokens': 246, 'time_per_item': 43.12}
+{'num': 209, 'card': 'P-1083', 'error': 0, 'tokens': 213, 'time_per_item': 29.58}
+{'num': 210, 'card': 'P-1099', 'error': 0, 'tokens': 210, 'time_per_item': 24.92}
+{'num': 211, 'card': 'P-1225', 'error': 0, 'tokens': 239, 'time_per_item': 29.17}
+{'num': 212, 'card': 'P-1091', 'error': 0, 'tokens': 251, 'time_per_item': 31.35}
+{'num': 213, 'card': 'P-1005', 'error': 0, 'tokens': 183, 'time_per_item': 25.13}
+{'num': 214, 'card': 'P-1288', 'error': 0, 'tokens': 179, 'time_per_item': 20.59}
+{'num': 215, 'card': 'P-1228', 'error': 0, 'tokens': 197, 'time_per_item': 23.85}
+{'num': 216, 'card': 'P-1151', 'error': 0, 'tokens': 177, 'time_per_item': 23.91}
+{'num': 217, 'card': 'P-1173', 'error': 0, 'tokens': 167, 'time_per_item': 25.04}
+{'num': 218, 'card': 'P-1203', 'error': 0, 'tokens': 196, 'time_per_item': 26.29}
+{'num': 219, 'card': 'P-1007', 'error': 0, 'tokens': 184, 'time_per_item': 23.05}
+{'num': 220, 'card': 'P-1003', 'error': 0, 'tokens': 170, 'time_per_item': 25.35}
+{'num': 221, 'card': 'P-1137', 'error': 0, 'tokens': 182, 'time_per_item': 27.12}
+{'num': 222, 'card': 'P-1042', 'error': 0, 'tokens': 221, 'time_per_item': 25.64}
+{'num': 223, 'card': 'P-1268', 'error': 0, 'tokens': 176, 'time_per_item': 24.14}
+{'num': 224, 'card': 'P-1263', 'error': 0, 'tokens': 208, 'time_per_item': 28.23}
+{'num': 225, 'card': 'P-1252', 'error': 0, 'tokens': 172, 'time_per_item': 24.02}
+{'num': 226, 'card': 'P-1158', 'error': 0, 'tokens': 153, 'time_per_item': 16.58}
+{'num': 227, 'card': 'P-1136', 'error': 0, 'tokens': 191, 'time_per_item': 23.82}
+{'num': 228, 'card': 'P-1222', 'error': 0, 'tokens': 172, 'time_per_item': 18.69}
+{'num': 229, 'card': 'P-1046', 'error': 0, 'tokens': 153, 'time_per_item': 17.62}
+{'num': 230, 'card': 'P-1180', 'error': 0, 'tokens': 243, 'time_per_item': 27.85}
+{'num': 231, 'card': 'P-1020', 'error': 0, 'tokens': 183, 'time_per_item': 21.46}
+{'num': 232, 'card': 'P-1218', 'error': 0, 'tokens': 142, 'time_per_item': 18.18}
+{'num': 233, 'card': 'P-1009', 'error': 0, 'tokens': 191, 'time_per_item': 23.09}
+{'num': 234, 'card': 'P-1255', 'error': 0, 'tokens': 185, 'time_per_item': 24.05}
+{'num': 235, 'card': 'P-1139', 'error': 0, 'tokens': 236, 'time_per_item': 24.47}
+{'num': 236, 'card': 'P-1262', 'error': 0, 'tokens': 187, 'time_per_item': 24.15}
+{'num': 237, 'card': 'P-1013', 'error': 0, 'tokens': 180, 'time_per_item': 19.63}
+{'num': 238, 'card': 'P-1044', 'error': 0, 'tokens': 169, 'time_per_item': 21.76}
+{'num': 239, 'card': 'P-1098', 'error': 0, 'tokens': 261, 'time_per_item': 27.26}
+{'num': 240, 'card': 'P-1285', 'error': 0, 'tokens': 194, 'time_per_item': 19.79}
+{'num': 241, 'card': 'P-1168', 'error': 0, 'tokens': 168, 'time_per_item': 17.3}
+{'num': 242, 'card': 'P-1028', 'error': 0, 'tokens': 176, 'time_per_item': 19.38}
+{'num': 243, 'card': 'P-1034', 'error': 0, 'tokens': 200, 'time_per_item': 20.07}
+{'num': 244, 'card': 'P-1027', 'error': 0, 'tokens': 197, 'time_per_item': 21.72}
+{'num': 245, 'card': 'P-1074', 'error': 0, 'tokens': 225, 'time_per_item': 22.96}
+{'num': 246, 'card': 'P-1087', 'error': 0, 'tokens': 210, 'time_per_item': 24.19}
+{'num': 247, 'card': 'P-1167', 'error': 0, 'tokens': 183, 'time_per_item': 20.32}
+{'num': 248, 'card': 'P-1145', 'error': 0, 'tokens': 170, 'time_per_item': 25.32}
+{'num': 249, 'card': 'P-1248', 'error': 0, 'tokens': 155, 'time_per_item': 21.26}
+{'num': 250, 'card': 'P-1066', 'error': 0, 'tokens': 171, 'time_per_item': 27.76}
+{'num': 251, 'card': 'P-1275', 'error': 0, 'tokens': 222, 'time_per_item': 31.27}
+{'num': 252, 'card': 'P-1064', 'error': 0, 'tokens': 161, 'time_per_item': 11.68}
+{'num': 253, 'card': 'P-1206', 'error': 0, 'tokens': 202, 'time_per_item': 13.51}
+{'num': 254, 'card': 'P-1245', 'error': 0, 'tokens': 182, 'time_per_item': 11.27}
+{'num': 255, 'card': 'P-1297', 'error': 0, 'tokens': 197, 'time_per_item': 13.15}
+{'num': 256, 'card': 'P-1138', 'error': 0, 'tokens': 196, 'time_per_item': 12.24}
+{'num': 257, 'card': 'P-1153', 'error': 0, 'tokens': 174, 'time_per_item': 10.75}
+{'num': 258, 'card': 'P-1202', 'error': 0, 'tokens': 232, 'time_per_item': 13.92}
+{'num': 259, 'card': 'P-1284', 'error': 0, 'tokens': 170, 'time_per_item': 11.44}
+{'num': 260, 'card': 'P-1161', 'error': 0, 'tokens': 203, 'time_per_item': 13.94}
+{'num': 261, 'card': 'P-1016', 'error': 0, 'tokens': 178, 'time_per_item': 12.9}
+{'num': 262, 'card': 'P-1232', 'error': 0, 'tokens': 216, 'time_per_item': 15.18}
+{'num': 263, 'card': 'P-1250', 'error': 0, 'tokens': 192, 'time_per_item': 15.82}
+{'num': 264, 'card': 'P-1142', 'error': 0, 'tokens': 226, 'time_per_item': 17.98}
+{'num': 265, 'card': 'P-1188', 'error': 0, 'tokens': 177, 'time_per_item': 14.73}
+>>> error:  {'product_id': 'P-1204', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-1204",
+  "description": "Куртка Norvik демисезонная. Утеплитель: холлофайбер. Водоотталкивающая пропитка: есть. Капюшон: несъёмный. Тёплая, в мороз не продувает. Капюшон удобный, голову закрывает полностью.",
+  "pros": ["Тёплая", "В мороз не продувает", "Капюшон удобный"],
+  "cons": ["Рукава коротковаты", "Молния подклинивает на морозе"],
+  "tags": ["куртка", "демисезонная", "утеплитель", "холлофайбер", "водоотталкивающая пропитка", "капюшон"]
+}
+{'num': 266, 'card': 'P-1204', 'error': 0, 'tokens': 198, 'time_per_item': 37.14}
+{'num': 267, 'card': 'P-1286', 'error': 0, 'tokens': 172, 'time_per_item': 18.23}
+{'num': 268, 'card': 'P-1130', 'error': 0, 'tokens': 179, 'time_per_item': 16.25}
+{'num': 269, 'card': 'P-1014', 'error': 0, 'tokens': 156, 'time_per_item': 14.32}
+{'num': 270, 'card': 'P-1273', 'error': 0, 'tokens': 215, 'time_per_item': 18.52}
+{'num': 271, 'card': 'P-1216', 'error': 0, 'tokens': 153, 'time_per_item': 15.62}
+{'num': 272, 'card': 'P-1265', 'error': 0, 'tokens': 149, 'time_per_item': 14.33}
+{'num': 273, 'card': 'P-1156', 'error': 0, 'tokens': 208, 'time_per_item': 18.94}
+{'num': 274, 'card': 'P-1067', 'error': 0, 'tokens': 193, 'time_per_item': 17.47}
+{'num': 275, 'card': 'P-1210', 'error': 0, 'tokens': 233, 'time_per_item': 21.41}
+{'num': 276, 'card': 'P-1073', 'error': 0, 'tokens': 202, 'time_per_item': 18.72}
+{'num': 277, 'card': 'P-1102', 'error': 0, 'tokens': 166, 'time_per_item': 14.61}
+{'num': 278, 'card': 'P-1006', 'error': 0, 'tokens': 171, 'time_per_item': 19.3}
+{'num': 279, 'card': 'P-1124', 'error': 0, 'tokens': 164, 'time_per_item': 18.8}
+{'num': 280, 'card': 'P-1062', 'error': 0, 'tokens': 156, 'time_per_item': 14.14}
+{'num': 281, 'card': 'P-1274', 'error': 0, 'tokens': 201, 'time_per_item': 16.91}
+{'num': 282, 'card': 'P-1107', 'error': 0, 'tokens': 192, 'time_per_item': 18.38}
+{'num': 283, 'card': 'P-1201', 'error': 0, 'tokens': 156, 'time_per_item': 16.45}
+{'num': 284, 'card': 'P-1116', 'error': 0, 'tokens': 164, 'time_per_item': 15.58}
+{'num': 285, 'card': 'P-1120', 'error': 0, 'tokens': 188, 'time_per_item': 21.95}
+{'num': 286, 'card': 'P-1294', 'error': 0, 'tokens': 187, 'time_per_item': 18.37}
+{'num': 287, 'card': 'P-1036', 'error': 0, 'tokens': 195, 'time_per_item': 23.07}
+{'num': 288, 'card': 'P-1211', 'error': 0, 'tokens': 208, 'time_per_item': 19.81}
+{'num': 289, 'card': 'P-1271', 'error': 0, 'tokens': 227, 'time_per_item': 25.92}
+{'num': 290, 'card': 'P-1226', 'error': 0, 'tokens': 201, 'time_per_item': 20.85}
+{'num': 291, 'card': 'P-1292', 'error': 0, 'tokens': 221, 'time_per_item': 24.34}
+{'num': 292, 'card': 'P-1209', 'error': 0, 'tokens': 170, 'time_per_item': 17.36}
+{'num': 293, 'card': 'P-1093', 'error': 0, 'tokens': 173, 'time_per_item': 17.36}
+{'num': 294, 'card': 'P-1207', 'error': 0, 'tokens': 210, 'time_per_item': 21.29}
+{'num': 295, 'card': 'P-1266', 'error': 0, 'tokens': 193, 'time_per_item': 21.1}
+{'num': 296, 'card': 'P-1035', 'error': 0, 'tokens': 169, 'time_per_item': 17.84}
+{'num': 297, 'card': 'P-1247', 'error': 0, 'tokens': 202, 'time_per_item': 23.15}
+{'num': 298, 'card': 'P-1246', 'error': 0, 'tokens': 149, 'time_per_item': 16.31}
+{'num': 299, 'card': 'P-1048', 'error': 0, 'tokens': 182, 'time_per_item': 19.24}
+{'num': 300, 'card': 'P-1126', 'error': 0, 'tokens': 148, 'time_per_item': 16.06}

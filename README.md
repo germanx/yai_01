@@ -1,17 +1,22 @@
 # Отчёт по проекту
 
+## Github Repository
+https://github.com/germanx/yai_01
+
+
 ## Финальный конфиг
 
 - hardware: MacBook M4, 16 Gb RAM (basic), CPU only
+- Python: 3.13.11
 - модель: llama3.1:8b
 - dtype: bfloat16
 - квантизация: Q4_K_M
-- параметры vLLM: работал только на CPU, локально GPU нет, доступ к ВМ получить не удалось.
+- параметры vLLM: no VLLM, работал только на CPU, локально GPU нет, доступ к ВМ получить не удалось
 
 
 ## Параметры генерации
 
-Модель llama3.1:8b (Q4_K_M) хорошо справилась с генерацией продуктовых карточек практически на всех значениях параметров - см. таблицу ниже.
+1. Модель llama3.1:8b (Q4_K_M) хорошо справилась с генерацией продуктовых карточек практически на всех значениях параметров - см. таблицу ниже.
 При увеличении параметра max_tokens увеличивалось описание (description), но всегда умещалось в требуемые рамки, заданные на уровне схемы. 
 
 Для финальной генерации были выбраны следующие параметры:
@@ -31,6 +36,38 @@ max_tokens:         350
 |     1       | Справа.     | Справа      |
 |     2       | Еще текст   | Значение    |
 |     4       | Еще текст   | Значение    |
+
+
+2. CardRequest.model_json_schema()
+{'additionalProperties': False,
+ 'description': 'Product Card',
+ 'properties': {'product_id': {'maxLength': 50,
+   'minLength': 1,
+   'title': 'Product Id',
+   'type': 'string'},
+  'description': {'maxLength': 700,
+   'minLength': 120,
+   'title': 'Description',
+   'type': 'string'},
+  'pros': {'items': {'type': 'string'},
+   'maxItems': 5,
+   'minItems': 2,
+   'title': 'Pros',
+   'type': 'array'},
+  'cons': {'items': {'type': 'string'},
+   'maxItems': 3,
+   'minItems': 1,
+   'title': 'Cons',
+   'type': 'array'},
+  'tags': {'items': {'type': 'string'},
+   'maxItems': 8,
+   'minItems': 3,
+   'title': 'Tags',
+   'type': 'array'}},
+ 'required': ['product_id', 'description', 'pros', 'cons', 'tags'],
+ 'title': 'CardRequest',
+ 'type': 'object'
+}
 
 
 ## Сравнение с моделью через API
