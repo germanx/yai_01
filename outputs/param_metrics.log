@@ -1,0 +1,1242 @@
+{'num': 1, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.7}
+{'num': 2, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 9.24}
+{'num': 3, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 9.03}
+{'num': 4, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.32}
+{'num': 5, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.37}
+{'num': 6, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.74}
+{'num': 7, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 9.4}
+{'num': 8, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 10.47}
+{'num': 9, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 12.22}
+{'num': 10, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 15.5}
+{'num': 11, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 16.47}
+{'num': 12, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 19.4}
+{'num': 13, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 20.08}
+{'num': 14, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 21.18}
+{'num': 15, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.79}
+{'num': 16, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.63}
+{'num': 17, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 15.83}
+{'num': 18, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.07}
+{'num': 19, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.11}
+{'num': 20, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.12}
+{'num': 21, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.8}
+{'num': 22, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.05}
+{'num': 23, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.65}
+{'num': 24, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 15.83}
+{'num': 25, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.24}
+{'num': 26, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 14.91}
+{'num': 27, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 15.45}
+{'num': 28, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 15.61}
+{'num': 29, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 15.97}
+{'num': 30, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.38}
+{'num': 31, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.15}
+{'num': 32, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.23}
+{'num': 33, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 15.47}
+{'num': 34, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.16}
+{'num': 35, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.49}
+{'num': 36, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.05}
+{'num': 37, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 15.92}
+{'num': 38, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 15.97}
+{'num': 39, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 17.08}
+{'num': 40, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.04}
+{'num': 41, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.55}
+{'num': 42, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 15.97}
+{'num': 43, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.29}
+{'num': 44, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.35}
+{'num': 45, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.6}
+{'num': 46, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.49}
+{'num': 47, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.1}
+{'num': 48, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.44}
+{'num': 49, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.48}
+{'num': 50, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 18.06}
+{'num': 51, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.73}
+{'num': 52, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.11}
+{'num': 53, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.32}
+{'num': 54, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.6}
+{'num': 55, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.12}
+{'num': 56, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.73}
+{'num': 57, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.29}
+{'num': 58, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.41}
+{'num': 59, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.69}
+{'num': 60, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.0}
+{'num': 61, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.75}
+{'num': 62, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.35}
+{'num': 63, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.36}
+{'num': 64, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.7}
+{'num': 65, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.98}
+{'num': 66, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 16.0}
+{'num': 67, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 19.46}
+{'num': 68, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 17.85}
+{'num': 69, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.46}
+{'num': 70, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.68}
+{'num': 71, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.65}
+{'num': 72, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.2}
+{'num': 73, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.43}
+{'num': 74, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.75}
+{'num': 75, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.14}
+{'num': 76, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.8}
+{'num': 77, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.47}
+{'num': 78, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.43}
+{'num': 79, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 17.59}
+{'num': 80, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.05}
+{'num': 81, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.87}
+{'num': 82, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.48}
+{'num': 83, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.51}
+{'num': 84, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.87}
+{'num': 85, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.13}
+{'num': 86, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.91}
+{'num': 87, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.7}
+{'num': 88, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 17.02}
+{'num': 89, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.88}
+{'num': 90, 'temperature': 0.0, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.05}
+{'num': 91, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.85}
+{'num': 92, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 16.7}
+{'num': 93, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.57}
+{'num': 94, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 17.16}
+{'num': 95, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.45}
+{'num': 96, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.98}
+{'num': 97, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 17.41}
+{'num': 98, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 17.25}
+{'num': 99, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 17.13}
+{'num': 100, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 17.37}
+{'num': 101, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 16.89}
+{'num': 102, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 21.04}
+{'num': 103, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 18.4}
+{'num': 104, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 17.67}
+{'num': 105, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 19.66}
+{'num': 106, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 20.01}
+{'num': 107, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 17.0}
+{'num': 108, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 9.44}
+{'num': 109, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.29}
+{'num': 110, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.15}
+{'num': 111, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.54}
+{'num': 112, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 8.92}
+{'num': 113, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 8.92}
+{'num': 114, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.05}
+{'num': 115, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.2}
+{'num': 116, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.65}
+{'num': 117, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 9.38}
+{'num': 118, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 9.86}
+{'num': 119, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 11.16}
+{'num': 120, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 13.45}
+{'num': 121, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 13.18}
+{'num': 122, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 15.54}
+{'num': 123, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 16.0}
+{'num': 124, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.5}
+{'num': 125, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 16.43}
+{'num': 126, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 15.51}
+{'num': 127, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 14.88}
+{'num': 128, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 14.71}
+{'num': 129, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 14.81}
+{'num': 130, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 15.16}
+{'num': 131, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 14.02}
+{'num': 132, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 14.34}
+{'num': 133, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 14.74}
+{'num': 134, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 14.87}
+{'num': 135, 'temperature': 0.0, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 15.13}
+{'num': 136, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 14.07}
+{'num': 137, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 14.86}
+{'num': 138, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 15.64}
+{'num': 139, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.43}
+{'num': 140, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 15.71}
+{'num': 141, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 14.29}
+{'num': 142, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 15.29}
+{'num': 143, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 14.59}
+{'num': 144, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 14.69}
+{'num': 145, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 14.86}
+{'num': 146, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 13.79}
+{'num': 147, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 14.29}
+{'num': 148, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 15.12}
+{'num': 149, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 21.72}
+{'num': 150, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 22.2}
+{'num': 151, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 12.19}
+{'num': 152, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 9.25}
+{'num': 153, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 9.03}
+{'num': 154, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.32}
+{'num': 155, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.29}
+{'num': 156, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.52}
+{'num': 157, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 8.93}
+{'num': 158, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 8.88}
+{'num': 159, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.05}
+{'num': 160, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.17}
+{'num': 161, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.55}
+{'num': 162, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 8.86}
+{'num': 163, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 8.9}
+{'num': 164, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.2}
+{'num': 165, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.49}
+{'num': 166, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.71}
+{'num': 167, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 9.09}
+{'num': 168, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 9.4}
+{'num': 169, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 16.42}
+{'num': 170, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 21.33}
+{'num': 171, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.58}
+{'num': 172, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.27}
+{'num': 173, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 19.6}
+{'num': 174, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 21.53}
+{'num': 175, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 19.74}
+{'num': 176, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 18.54}
+{'num': 177, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 19.59}
+{'num': 178, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 20.92}
+{'num': 179, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 20.92}
+{'num': 180, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 19.75}
+{'num': 181, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 20.0}
+{'num': 182, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 19.53}
+{'num': 183, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 20.54}
+{'num': 184, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 20.22}
+{'num': 185, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 20.17}
+{'num': 186, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 20.34}
+{'num': 187, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.57}
+{'num': 188, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 21.46}
+{'num': 189, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 21.55}
+{'num': 190, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 22.43}
+{'num': 191, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 18.61}
+{'num': 192, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.32}
+{'num': 193, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 21.06}
+{'num': 194, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 19.46}
+{'num': 195, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 21.16}
+{'num': 196, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.72}
+{'num': 197, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.62}
+{'num': 198, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 20.17}
+{'num': 199, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 21.33}
+{'num': 200, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 21.7}
+{'num': 201, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.57}
+{'num': 202, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 19.95}
+{'num': 203, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 18.79}
+{'num': 204, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 22.1}
+{'num': 205, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 22.26}
+{'num': 206, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.27}
+{'num': 207, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.91}
+{'num': 208, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 21.94}
+{'num': 209, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 21.16}
+{'num': 210, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 21.41}
+{'num': 211, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.95}
+{'num': 212, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.77}
+{'num': 213, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 20.7}
+{'num': 214, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 20.07}
+{'num': 215, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 21.05}
+{'num': 216, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.8}
+{'num': 217, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.44}
+{'num': 218, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 19.87}
+{'num': 219, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 20.53}
+{'num': 220, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 21.29}
+{'num': 221, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.9}
+{'num': 222, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 21.84}
+{'num': 223, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 21.45}
+{'num': 224, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 19.25}
+{'num': 225, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 20.86}
+{'num': 226, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 18.57}
+{'num': 227, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 19.19}
+{'num': 228, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 21.64}
+{'num': 229, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 20.83}
+{'num': 230, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 20.48}
+{'num': 231, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 18.27}
+{'num': 232, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 19.72}
+{'num': 233, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 20.22}
+{'num': 234, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 20.85}
+{'num': 235, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 22.72}
+{'num': 236, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 19.76}
+{'num': 237, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 20.1}
+{'num': 238, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 9.58}
+{'num': 239, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 11.27}
+{'num': 240, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 10.0}
+{'num': 241, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.87}
+{'num': 242, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 8.99}
+{'num': 243, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 8.95}
+{'num': 244, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.07}
+{'num': 245, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.24}
+{'num': 246, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.54}
+{'num': 247, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 8.89}
+{'num': 248, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 8.89}
+{'num': 249, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.07}
+{'num': 250, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.26}
+{'num': 251, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.66}
+{'num': 252, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 9.07}
+{'num': 253, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 9.08}
+{'num': 254, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 9.31}
+{'num': 255, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 9.67}
+{'num': 256, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 8.96}
+{'num': 257, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 9.54}
+{'num': 258, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 10.0}
+{'num': 259, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 10.66}
+{'num': 260, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 11.08}
+{'num': 261, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 11.04}
+{'num': 262, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 11.89}
+{'num': 263, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 11.79}
+{'num': 264, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 12.13}
+{'num': 265, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 12.5}
+{'num': 266, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 265, 'tokens': 174, 'time_per_item': 11.41}
+{'num': 267, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 257, 'tokens': 180, 'time_per_item': 11.96}
+{'num': 268, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 264, 'tokens': 182, 'time_per_item': 11.91}
+{'num': 269, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 223, 'tokens': 185, 'time_per_item': 12.6}
+{'num': 270, 'temperature': 0.0, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 205, 'tokens': 187, 'time_per_item': 12.35}
+{'num': 271, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 12.62}
+{'num': 272, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 13.64}
+{'num': 273, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 10.68}
+{'num': 274, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 11.77}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 275, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 27.73}
+{'num': 276, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 13.8}
+{'num': 277, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 14.71}
+{'num': 278, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.26}
+{'num': 279, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 12.96}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 280, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 28.75}
+{'num': 281, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.04}
+{'num': 282, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 14.26}
+{'num': 283, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.21}
+{'num': 284, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 12.42}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 285, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 29.22}
+{'num': 286, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.52}
+{'num': 287, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 14.78}
+{'num': 288, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.54}
+{'num': 289, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 12.84}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 290, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 30.24}
+{'num': 291, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 15.02}
+{'num': 292, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 15.08}
+{'num': 293, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.89}
+{'num': 294, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.15}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 295, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 31.01}
+{'num': 296, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 15.29}
+{'num': 297, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.29}
+{'num': 298, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.18}
+{'num': 299, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.64}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 300, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 32.36}
+{'num': 301, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 15.55}
+{'num': 302, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 15.72}
+{'num': 303, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.42}
+{'num': 304, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.68}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 305, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 31.96}
+{'num': 306, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 15.77}
+{'num': 307, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.0}
+{'num': 308, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.53}
+{'num': 309, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.95}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 310, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 32.7}
+{'num': 311, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 16.14}
+{'num': 312, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.4}
+{'num': 313, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.86}
+{'num': 314, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.23}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 315, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 33.7}
+{'num': 316, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 16.51}
+{'num': 317, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.55}
+{'num': 318, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.91}
+{'num': 319, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.32}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 320, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 34.29}
+{'num': 321, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 16.82}
+{'num': 322, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.93}
+{'num': 323, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.53}
+{'num': 324, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.7}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 325, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 34.67}
+{'num': 326, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 17.03}
+{'num': 327, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.08}
+{'num': 328, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.39}
+{'num': 329, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.9}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 330, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 34.97}
+{'num': 331, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 17.11}
+{'num': 332, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.59}
+{'num': 333, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 16.54}
+{'num': 334, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 15.78}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 335, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 37.0}
+{'num': 336, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 17.37}
+{'num': 337, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.55}
+{'num': 338, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.66}
+{'num': 339, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 15.37}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 340, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 35.11}
+{'num': 341, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 17.33}
+{'num': 342, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.41}
+{'num': 343, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.68}
+{'num': 344, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 16.1}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 345, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 36.13}
+{'num': 346, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 17.59}
+{'num': 347, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 18.59}
+{'num': 348, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 14.19}
+{'num': 349, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 18.57}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 350, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 37.4}
+{'num': 351, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 18.78}
+{'num': 352, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 18.93}
+{'num': 353, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 15.15}
+{'num': 354, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 16.35}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 355, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 37.94}
+{'num': 356, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 18.95}
+{'num': 357, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 19.98}
+{'num': 358, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 14.76}
+{'num': 359, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 16.46}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 360, 'temperature': 0.3, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 38.46}
+{'num': 361, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 12.22}
+{'num': 362, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 9.79}
+{'num': 363, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 7.43}
+{'num': 364, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 8.2}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 365, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 19.13}
+{'num': 366, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 9.39}
+{'num': 367, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 9.56}
+{'num': 368, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 7.48}
+{'num': 369, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 8.4}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 370, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 23.34}
+{'num': 371, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.16}
+{'num': 372, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.88}
+{'num': 373, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 15.07}
+{'num': 374, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 17.38}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 375, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 38.76}
+{'num': 376, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 17.76}
+{'num': 377, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 18.18}
+{'num': 378, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.49}
+{'num': 379, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.61}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 380, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 34.67}
+{'num': 381, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 16.92}
+{'num': 382, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.43}
+{'num': 383, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.56}
+{'num': 384, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 16.26}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 385, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 36.83}
+{'num': 386, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 18.94}
+{'num': 387, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 18.79}
+{'num': 388, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 14.57}
+{'num': 389, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 16.38}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 390, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 39.03}
+{'num': 391, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 18.62}
+{'num': 392, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 19.08}
+{'num': 393, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 14.8}
+{'num': 394, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 15.77}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 395, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 39.98}
+{'num': 396, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.67}
+{'num': 397, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 21.74}
+{'num': 398, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 16.05}
+{'num': 399, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.29}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 400, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.0}
+{'num': 401, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.25}
+{'num': 402, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.34}
+{'num': 403, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.73}
+{'num': 404, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.37}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 405, 'temperature': 0.3, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 44.95}
+{'num': 406, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.16}
+{'num': 407, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 23.06}
+{'num': 408, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.35}
+{'num': 409, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.31}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 410, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.11}
+{'num': 411, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.24}
+{'num': 412, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.43}
+{'num': 413, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.52}
+{'num': 414, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.35}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 415, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.15}
+{'num': 416, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.25}
+{'num': 417, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.49}
+{'num': 418, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.48}
+{'num': 419, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.36}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 420, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 46.43}
+{'num': 421, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 21.82}
+{'num': 422, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.49}
+{'num': 423, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.55}
+{'num': 424, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.36}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 425, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.26}
+{'num': 426, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.24}
+{'num': 427, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.45}
+{'num': 428, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.48}
+{'num': 429, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.44}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 430, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.47}
+{'num': 431, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.26}
+{'num': 432, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.53}
+{'num': 433, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.49}
+{'num': 434, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.86}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 435, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.06}
+{'num': 436, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.57}
+{'num': 437, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.51}
+{'num': 438, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.6}
+{'num': 439, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.44}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 440, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.21}
+{'num': 441, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.24}
+{'num': 442, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 19.06}
+{'num': 443, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 7.98}
+{'num': 444, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 8.39}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 445, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 19.12}
+{'num': 446, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 9.36}
+{'num': 447, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 9.54}
+{'num': 448, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 7.45}
+{'num': 449, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 8.28}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 450, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 20.11}
+{'num': 451, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 11.01}
+{'num': 452, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 12.56}
+{'num': 453, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 10.8}
+{'num': 454, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.59}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 455, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 32.28}
+{'num': 456, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 15.92}
+{'num': 457, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 15.63}
+{'num': 458, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.11}
+{'num': 459, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.1}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 460, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 30.11}
+{'num': 461, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.68}
+{'num': 462, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 14.92}
+{'num': 463, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.59}
+{'num': 464, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.0}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 465, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 30.33}
+{'num': 466, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 15.15}
+{'num': 467, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 15.62}
+{'num': 468, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.3}
+{'num': 469, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.56}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 470, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 31.63}
+{'num': 471, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 15.62}
+{'num': 472, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.05}
+{'num': 473, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.78}
+{'num': 474, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.94}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 475, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 33.07}
+{'num': 476, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 16.25}
+{'num': 477, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.19}
+{'num': 478, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.16}
+{'num': 479, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.53}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 480, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 34.3}
+{'num': 481, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 16.56}
+{'num': 482, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.15}
+{'num': 483, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.57}
+{'num': 484, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.87}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 485, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 34.81}
+{'num': 486, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 17.16}
+{'num': 487, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.49}
+{'num': 488, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.64}
+{'num': 489, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 16.6}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 490, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.27}
+{'num': 491, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.08}
+{'num': 492, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.3}
+{'num': 493, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.39}
+{'num': 494, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.9}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 495, 'temperature': 0.3, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.02}
+{'num': 496, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.82}
+{'num': 497, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.58}
+{'num': 498, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.47}
+{'num': 499, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 19.93}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 500, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 45.12}
+{'num': 501, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 22.29}
+{'num': 502, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 22.39}
+{'num': 503, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 17.49}
+{'num': 504, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.97}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 505, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 19.77}
+{'num': 506, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 9.42}
+{'num': 507, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 9.57}
+{'num': 508, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 7.46}
+{'num': 509, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 8.25}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 510, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 19.34}
+{'num': 511, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 9.62}
+{'num': 512, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 10.15}
+{'num': 513, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 8.51}
+{'num': 514, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 10.18}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 515, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 27.25}
+{'num': 516, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.79}
+{'num': 517, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 15.32}
+{'num': 518, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.97}
+{'num': 519, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.06}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 520, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 29.71}
+{'num': 521, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.13}
+{'num': 522, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 14.34}
+{'num': 523, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.1}
+{'num': 524, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 12.38}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 525, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 28.77}
+{'num': 526, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.79}
+{'num': 527, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 14.75}
+{'num': 528, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 11.23}
+{'num': 529, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 12.79}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 530, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 30.46}
+{'num': 531, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 14.77}
+{'num': 532, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 16.25}
+{'num': 533, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 12.55}
+{'num': 534, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 13.88}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 535, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 32.45}
+{'num': 536, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 241, 'tokens': 191, 'time_per_item': 16.87}
+{'num': 537, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 196, 'tokens': 193, 'time_per_item': 17.47}
+{'num': 538, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 188, 'tokens': 152, 'time_per_item': 13.59}
+{'num': 539, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 212, 'tokens': 168, 'time_per_item': 14.38}
+>>> error:  {'product_id': 'P-0036', 'error': 'Description must contain 2-5 sentences'}
+>>> error content:  {
+  "product_id": "P-0036",
+  "description": "Куртка Polaris утеплённая, бренд Polaris, утеплитель пух, сезон зима, водоотталкивающая пропитка нет, капюшон нет, температура -10 градусов.",
+  "pros": ["Сидит по фигуре", "Крой аккуратный", "Лёгкая для своей теплоты", "Материал качественный", "Швы ровные"],
+  "cons": ["Размер маломерит", "Молния подклинивает на морозе"],
+  "tags": ["Куртка", "Полярис", "Утеплённая", "Зима", "Пух", "Без капюшона"]
+}
+{'num': 540, 'temperature': 0.3, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 215, 'tokens': 199, 'time_per_item': 32.84}
+{'num': 541, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 13.2}
+{'num': 542, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 16.83}
+{'num': 543, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 13.73}
+{'num': 544, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 16.13}
+{'num': 545, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 16.65}
+{'num': 546, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 13.53}
+{'num': 547, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 17.04}
+{'num': 548, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 14.0}
+{'num': 549, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 16.49}
+{'num': 550, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 16.85}
+{'num': 551, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 13.79}
+{'num': 552, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 17.11}
+{'num': 553, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 14.07}
+{'num': 554, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 17.33}
+{'num': 555, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 17.03}
+{'num': 556, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 14.44}
+{'num': 557, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 17.18}
+{'num': 558, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 14.1}
+{'num': 559, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 16.47}
+{'num': 560, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 16.8}
+{'num': 561, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 13.63}
+{'num': 562, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 17.09}
+{'num': 563, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 13.96}
+{'num': 564, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 16.54}
+{'num': 565, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 16.85}
+{'num': 566, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 13.91}
+{'num': 567, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 18.75}
+{'num': 568, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 14.07}
+{'num': 569, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 16.55}
+{'num': 570, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 15.68}
+{'num': 571, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 13.09}
+{'num': 572, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 16.14}
+{'num': 573, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 13.16}
+{'num': 574, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 15.68}
+{'num': 575, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 15.83}
+{'num': 576, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 12.96}
+{'num': 577, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 16.31}
+{'num': 578, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 13.47}
+{'num': 579, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 15.62}
+{'num': 580, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 15.94}
+{'num': 581, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 12.98}
+{'num': 582, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 243, 'tokens': 194, 'time_per_item': 16.32}
+{'num': 583, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 179, 'tokens': 160, 'time_per_item': 13.27}
+{'num': 584, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 216, 'tokens': 188, 'time_per_item': 15.7}
+{'num': 585, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 252, 'tokens': 191, 'time_per_item': 16.2}
+{'num': 586, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 14.59}
+{'num': 587, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 8.18}
+{'num': 588, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 8.26}
+{'num': 589, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 8.61}
+{'num': 590, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 8.92}
+{'num': 591, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 9.51}
+{'num': 592, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 8.07}
+{'num': 593, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 8.02}
+{'num': 594, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 8.65}
+{'num': 595, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 8.98}
+{'num': 596, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 9.47}
+{'num': 597, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 8.26}
+{'num': 598, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 8.47}
+{'num': 599, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 9.92}
+{'num': 600, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 11.11}
+{'num': 601, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 13.02}
+{'num': 602, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 12.06}
+{'num': 603, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 12.84}
+{'num': 604, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 14.14}
+{'num': 605, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 16.95}
+{'num': 606, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 21.03}
+{'num': 607, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 18.89}
+{'num': 608, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 17.13}
+{'num': 609, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 18.94}
+{'num': 610, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 19.18}
+{'num': 611, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 22.06}
+{'num': 612, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 19.68}
+{'num': 613, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 18.2}
+{'num': 614, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 19.36}
+{'num': 615, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 19.74}
+{'num': 616, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 20.44}
+{'num': 617, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 18.38}
+{'num': 618, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 18.79}
+{'num': 619, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 19.37}
+{'num': 620, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 19.12}
+{'num': 621, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 20.21}
+{'num': 622, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 18.4}
+{'num': 623, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 18.85}
+{'num': 624, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 19.89}
+{'num': 625, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 19.53}
+{'num': 626, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 250, 'tokens': 192, 'time_per_item': 20.21}
+{'num': 627, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 11.28}
+{'num': 628, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 248, 'tokens': 164, 'time_per_item': 8.3}
+{'num': 629, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 8.94}
+{'num': 630, 'temperature': 0.7, 'top_p': 0.9, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 9.16}
+{'num': 631, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 7.75}
+{'num': 632, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 8.06}
+{'num': 633, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 8.25}
+{'num': 634, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 8.66}
+{'num': 635, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 8.92}
+{'num': 636, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 7.64}
+{'num': 637, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 8.04}
+{'num': 638, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 8.41}
+{'num': 639, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 9.04}
+{'num': 640, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 9.51}
+{'num': 641, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 7.93}
+{'num': 642, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 8.29}
+{'num': 643, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 8.61}
+{'num': 644, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 9.04}
+{'num': 645, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 9.25}
+{'num': 646, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 8.12}
+{'num': 647, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 8.75}
+{'num': 648, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 9.42}
+{'num': 649, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 10.41}
+{'num': 650, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 11.16}
+{'num': 651, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 9.81}
+{'num': 652, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 10.69}
+{'num': 653, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 11.14}
+{'num': 654, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 11.72}
+{'num': 655, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 12.31}
+{'num': 656, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 10.5}
+{'num': 657, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 11.11}
+{'num': 658, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 11.31}
+{'num': 659, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 11.85}
+{'num': 660, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 12.08}
+{'num': 661, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 10.5}
+{'num': 662, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 11.1}
+{'num': 663, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 11.0}
+{'num': 664, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 11.65}
+{'num': 665, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 12.45}
+{'num': 666, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 10.68}
+{'num': 667, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 11.42}
+{'num': 668, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 11.62}
+{'num': 669, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 12.08}
+{'num': 670, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 12.53}
+{'num': 671, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 182, 'tokens': 156, 'time_per_item': 10.7}
+{'num': 672, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 279, 'tokens': 163, 'time_per_item': 11.26}
+{'num': 673, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 245, 'tokens': 169, 'time_per_item': 11.66}
+{'num': 674, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 176, 'time_per_item': 12.21}
+{'num': 675, 'temperature': 0.7, 'top_p': 0.9, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 183, 'tokens': 182, 'time_per_item': 12.58}
+{'num': 676, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 13.02}
+{'num': 677, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.56}
+{'num': 678, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.31}
+{'num': 679, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 12.0}
+{'num': 680, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.98}
+{'num': 681, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 13.23}
+{'num': 682, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.81}
+{'num': 683, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.41}
+{'num': 684, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 12.11}
+{'num': 685, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 12.02}
+{'num': 686, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 13.25}
+{'num': 687, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.98}
+{'num': 688, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.79}
+{'num': 689, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 11.52}
+{'num': 690, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.5}
+{'num': 691, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 12.69}
+{'num': 692, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.22}
+{'num': 693, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.35}
+{'num': 694, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 11.9}
+{'num': 695, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.56}
+{'num': 696, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 12.76}
+{'num': 697, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.5}
+{'num': 698, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 9.92}
+{'num': 699, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 11.81}
+{'num': 700, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.6}
+{'num': 701, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 12.83}
+{'num': 702, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.72}
+{'num': 703, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.08}
+{'num': 704, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 11.9}
+{'num': 705, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.72}
+{'num': 706, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 12.96}
+{'num': 707, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.48}
+{'num': 708, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.2}
+{'num': 709, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 11.75}
+{'num': 710, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.81}
+{'num': 711, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 12.98}
+{'num': 712, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.47}
+{'num': 713, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.75}
+{'num': 714, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 11.82}
+{'num': 715, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.81}
+{'num': 716, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 263, 'tokens': 188, 'time_per_item': 13.11}
+{'num': 717, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 260, 'tokens': 180, 'time_per_item': 12.57}
+{'num': 718, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.31}
+{'num': 719, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 211, 'tokens': 172, 'time_per_item': 12.02}
+{'num': 720, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 20, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 159, 'tokens': 170, 'time_per_item': 11.81}
+{'num': 721, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 13.22}
+{'num': 722, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 11.67}
+{'num': 723, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.27}
+{'num': 724, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.68}
+{'num': 725, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 14.22}
+{'num': 726, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 10.23}
+{'num': 727, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 8.64}
+{'num': 728, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 7.37}
+{'num': 729, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 8.27}
+{'num': 730, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 9.08}
+{'num': 731, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 9.33}
+{'num': 732, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 8.21}
+{'num': 733, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 7.36}
+{'num': 734, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 8.25}
+{'num': 735, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 9.05}
+{'num': 736, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 9.35}
+{'num': 737, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 8.46}
+{'num': 738, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 7.75}
+{'num': 739, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 9.27}
+{'num': 740, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 11.0}
+{'num': 741, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 12.4}
+{'num': 742, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 11.67}
+{'num': 743, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 11.3}
+{'num': 744, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 12.39}
+{'num': 745, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 13.68}
+{'num': 746, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 13.99}
+{'num': 747, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 12.14}
+{'num': 748, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.53}
+{'num': 749, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.73}
+{'num': 750, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.85}
+{'num': 751, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 12.98}
+{'num': 752, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 11.58}
+{'num': 753, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.13}
+{'num': 754, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.92}
+{'num': 755, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.56}
+{'num': 756, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 13.07}
+{'num': 757, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 11.41}
+{'num': 758, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.11}
+{'num': 759, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.48}
+{'num': 760, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.85}
+{'num': 761, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 217, 'tokens': 189, 'time_per_item': 13.0}
+{'num': 762, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 228, 'tokens': 166, 'time_per_item': 11.46}
+{'num': 763, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.05}
+{'num': 764, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.54}
+{'num': 765, 'temperature': 0.7, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.55}
+{'num': 766, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 13.07}
+{'num': 767, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 15.45}
+{'num': 768, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.13}
+{'num': 769, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.61}
+{'num': 770, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 250, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.83}
+{'num': 771, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 13.32}
+{'num': 772, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 15.01}
+{'num': 773, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.26}
+{'num': 774, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.58}
+{'num': 775, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 350, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.8}
+{'num': 776, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 13.31}
+{'num': 777, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 14.9}
+{'num': 778, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 10.31}
+{'num': 779, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.59}
+{'num': 780, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.0, 'max_tokens': 500, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.69}
+{'num': 781, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 14.29}
+{'num': 782, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 11.67}
+{'num': 783, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 7.5}
+{'num': 784, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 8.39}
+{'num': 785, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 250, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 9.07}
+{'num': 786, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 9.36}
+{'num': 787, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 10.54}
+{'num': 788, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 7.26}
+{'num': 789, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 8.21}
+{'num': 790, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 350, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 9.03}
+{'num': 791, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 9.35}
+{'num': 792, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 10.54}
+{'num': 793, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 7.27}
+{'num': 794, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 8.32}
+{'num': 795, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.1, 'max_tokens': 500, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 9.22}
+{'num': 796, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 9.72}
+{'num': 797, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 11.22}
+{'num': 798, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 7.86}
+{'num': 799, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 9.31}
+{'num': 800, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 250, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 10.75}
+{'num': 801, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 11.57}
+{'num': 802, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 13.64}
+{'num': 803, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 9.65}
+{'num': 804, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 11.01}
+{'num': 805, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 350, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 12.24}
+{'num': 806, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 173, 'tokens': 190, 'time_per_item': 12.53}
+{'num': 807, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 373, 'tokens': 213, 'time_per_item': 14.56}
+{'num': 808, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 184, 'tokens': 148, 'time_per_item': 9.63}
+{'num': 809, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 176, 'tokens': 167, 'time_per_item': 10.72}
+{'num': 810, 'temperature': 0.7, 'top_p': 1.0, 'top_k': None, 'repetition_penalty': 1.2, 'max_tokens': 500, 'error': 0, 'descr_len': 165, 'tokens': 183, 'time_per_item': 11.95}
