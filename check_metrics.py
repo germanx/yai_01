@@ -1,6 +1,8 @@
 import re
 import json
 
+MAX_REVIEWS = 30
+
 EXPECTED_FIELDS = {
     "product_id",
     "description",
@@ -15,6 +17,14 @@ MAX_DESCRIPTION_LENGTH = 700
 
 class ResponseValidationError(ValueError):
     """Ошибка парсинга или проверки ответа модели."""
+
+
+def item_normalize(item: str) -> str:
+  item_json = json.loads(item)
+  reviews = item_json["reviews"][:MAX_REVIEWS]
+
+  item_json["reviews"] = reviews
+  return json.dumps(item_json, ensure_ascii=False)
 
 
 def count_sentences(text):
