@@ -65,10 +65,10 @@ max_tokens:         350
 }
 
 Карточки тестовой генерации содержатся здесь:
-https://github.com/germanx/yai_01/tree/main/outputs/cards-dev
+https://github.com/germanx/yai_01/tree/main/outputs/predictions_hp.jsonl
 
 Карточки финальной генерации содержатся здесь:
-https://github.com/germanx/yai_01/tree/main/outputs/cards-benchmark
+https://github.com/germanx/yai_01/tree/main/outputs/predictions.jsonl
 
 
 ## Сравнение с моделью через API
@@ -85,8 +85,8 @@ OpenRouter не доступен для РФ. Выполнить задание 
 1. Доля валидных карточек
 На тестовых данных ошибок, c учетом повторных реквестов, не было.
 Результат - 100% без ошибок.
-Лог: 
-https://github.com/germanx/yai_01/blob/main/outputs/param_metrics.log
+https://github.com/germanx/yai_01/blob/main/outputs/predictions_metrics.json
+https://github.com/germanx/yai_01/blob/main/outputs/predictions_hp_metrics.json
 
 
 2. Concurrency
@@ -110,11 +110,10 @@ latency     = ~15 сек.
 
 4. Стоимость 
 MacBook M4:
-(6839 / 3600 * 65) / 300 * 1000 = 41 руб. за 1000
+(6174 / 3600 * 65) / 300 * 1000 = 371 руб. за 1000
 
 HP EliteBook 840:
-(4389 / 3600 * 65) / 40 * 1000 = 199 руб. за 1000
-
+(2578 / 3600 * 65) / 40 * 1000 = 1164 руб. за 1000
 
 Стоимость через API не проверялась - ввиду отсутствия доступа к OpenRouter.
 
@@ -157,7 +156,13 @@ tiktoken:
 В рамках проекта сравнивал варианты вызова локальной модели через 2 различных API: OpenAPI и Ollama.
 Значения latency/стоимости получились примерно одинаковыми (что логично).
 
-(6839 / 3600 * 65) / 300 * 1000 = 41 руб. за 1000
+
+Стоимость рассчитывалась для 2-х вариантов MacBook M4 и HP EliteBook 840.
+MacBook M4:
+(6174 / 3600 * 65) / 300 * 1000 = 371 руб. за 1000
+HP EliteBook 840:
+(2578 / 3600 * 65) / 40 * 1000 = 1164 руб. за 1000
+
 
 Итог: 
 Для промышленного использования организациями в РФ требуется развертывание локальных моделей. 

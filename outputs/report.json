@@ -9,19 +9,19 @@
       "repetition_penalty": 1.1,
       "max_tokens": 350
     },
-    "elapsed_sec": 6839.2,
-    "input_tokens": 403565, !!!
-    "output_tokens": 96309, !!!
+    "elapsed_sec": 6174,
+    "input_tokens": 194217,
+    "output_tokens": 56551,
     "n": 300,
-    "avg_latency": 22.8,
+    "avg_latency": 20.6,
     "avg_attempts": 1.02
   },
   "metrics": {
     "valid": 300,
     "valid_rate": 1.0,
-    "throughput": 0.04,
-    "time_for_300_sec": 6839.2,
-    "cost_vllm_per_1000": 41,
+    "throughput": 0.05,
+    "time_for_300_sec": 6174,
+    "cost_vllm_per_1000": 371,
     "errors_by_reason": {
       "предложений": 6,
       "Description must contain 2-5 sentences": 6
@@ -30,10 +30,10 @@
   "api_comparison": {
     "model": "llama3.1:8b",
     "n": "40",
-    "valid_rate": "109.7",
-    "input_tokens": "n/a",   !!!
-    "output_tokens": "n/a",  !!!
-    "elapsed_sec": "4389",
-    "cost_per_1000": "199"
+    "valid_rate": "1.0",
+    "input_tokens": "26062",
+    "output_tokens": "7529",
+    "elapsed_sec": "2578",
+    "cost_per_1000": "1164"
   }
 }

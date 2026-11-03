@@ -145,8 +145,8 @@ def main():
   output_tokens = 0
   attempts = 0
 
-  out = Path(f"./outputs/predictions_hp_{timestamp_str}.jsonl")
-  out_metrics = Path(f"./outputs/predictions_hp_metrics_{timestamp_str}.jsonl")
+  out = Path(f"./outputs/predictions_{timestamp_str}.jsonl")
+  out_metrics = Path(f"./outputs/predictions_metrics_{timestamp_str}.jsonl")
 
   params = {
     "temperature":        0.3, 
