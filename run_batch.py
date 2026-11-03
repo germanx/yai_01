@@ -70,6 +70,7 @@ def request_one(
 
 
 def worming_up():
+  print('>>> worming up')
   item = {"product_id": "P-0026", "title": "Смартфон Grafo G9", "category": "Электроника / Смартфоны", "attributes": {"бренд": "Grafo", "экран": "6.7\"", "память": "256 ГБ", "оперативная память": "8 ГБ", "аккумулятор": "6000 мА·ч", "основная камера": "50 Мп"}, "reviews": ["Пользуюсь пару недель. Камера снимает достойно даже вечером", "Брал для себя. Звонки чистые, собеседника слышно хорошо", "В целом Быстро заряжается, за час почти полный", "Заказывал на подарок. Работает шустро, приложения не тормозят", "Брал для себя. Камера мылит фото при недостатке света", "Пользуюсь пару недель. К вечеру заряд просаживается быстрее ожидаемого", "Пользуюсь пару недель. Экран яркий, на солнце всё видно", "Пользуюсь пару недель. Экран яркий, на солнце всё видно", "Пользуюсь каждый день. Экран яркий, на солнце всё видно", "Быстро заряжается, за час почти полный", "В руке лежит удобно, не скользит", "Динамик тихий, в шумном месте плохо слышно", "Работает шустро, приложения не тормозят", "В руке лежит удобно, не скользит", "Коротко: Работает шустро, приложения не тормозят", "Купил на замену старому. Обычный телефон на каждый день, без сюрпризов", "Брал для себя. Батарея держит полтора дня без подзарядки", "В целом Работает шустро, приложения не тормозят"]}
 
   row_dict = [{"role": "user", "content": f"""{item}"""}]
@@ -78,7 +79,7 @@ def worming_up():
   resp = request_one(row_dict)
   generation_time = time.perf_counter() - started
 
-  print('>>> worming_up:\n', resp["content"], resp["input_tokens"], resp["output_tokens"], round(generation_time, 2))
+  print('>>> worming up (sek): ', round(generation_time, 2))
 
 
 def generate_one(
@@ -142,6 +143,7 @@ def main():
 
   input_tokens = 0
   output_tokens = 0
+  attempts = 0
 
   out = Path(f"./outputs/predictions_hp_{timestamp_str}.jsonl")
   out_metrics = Path(f"./outputs/predictions_hp_metrics_{timestamp_str}.jsonl")
@@ -175,6 +177,7 @@ def main():
     else:
       input_tokens += results['input_tokens']
       output_tokens += results['output_tokens']
+      attempts += results['attempts']
 
       with out.open("a", encoding="utf-8") as file:
         data = ast.literal_eval(results["content"])
@@ -198,7 +201,7 @@ def main():
     "error_percent": round(100 * err / len(items_slice), 2), 
     'input_tokens': input_tokens,
     'output_tokens': output_tokens,
-    'attempts': output_tokens,
+    'attempts': attempts,
     "total_time_sec": batch_generation_time, 
     'time_per_item_sec': round(batch_generation_time / len(items_slice), 2)
   }

@@ -1,0 +1,15 @@
+{
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "top_k": 50,
+    "repetition_penalty": 1.1,
+    "max_tokens": 350,
+    "products": 300,
+    "errors": 0,
+    "error_percent": 0.0,
+    "input_tokens": 194217,
+    "output_tokens": 56551,
+    "attempts": 306,
+    "total_time_sec": 6173.97,
+    "time_per_item_sec": 20.58
+}
